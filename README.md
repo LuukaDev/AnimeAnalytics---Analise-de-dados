@@ -106,9 +106,3 @@ Gráfico interativo com os 10 animes mais assistidos, segmentado por país de ma
 A análise revelou que o gênero **Adventure** é o mais consumido globalmente, com destaque para o mercado dos **Estados Unidos**, que lidera em tempo de visualização. Títulos como **Fairy Tail**, **Black Clover** e **Death Note** se destacam como os animes mais assistidos globalmente, indicando preferências consolidadas entre os públicos de diferentes países.
 
 ---
-
-## 📁 Repositório
-
-Acesse o projeto completo aqui:  
-👉 [GitHub - Anime-Analytics](https://github.com/seu-usuario/anime-analytics)
-
